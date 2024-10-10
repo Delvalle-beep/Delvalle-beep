@@ -1,7 +1,6 @@
 ### Hi!! My name is Vitória, but you can call me DelValle 👋 ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriaregina/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitoriastirling@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/de_el_valle)
 
 I'm a Data Scientist, Bioinformatics enthusiast, and a web/app developer who loves diving into messy datasets and turning them into meaningful insights. My journey combines the power of data science with the complexities of biology, especially focusing on genomics, miRNA, and rare diseases. I also have experience building websites and apps, adding another layer of creativity to the mix! Whether it’s developing machine learning models, creating visualizations that make data pop, or crafting user-friendly applications, I’m all about solving problems in innovative ways.
